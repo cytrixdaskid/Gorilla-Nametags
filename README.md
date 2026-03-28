@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⏰ Cytrixs Time Changer! ⏰
+# Gorilla Nametags!
 This gorilla tag mod is aimed to help improve nametags for better visibility and experience!
 
 </div>
@@ -20,8 +20,12 @@ Toggle Nametags = Right Shift + Left Shift
 </div>
 
 
-</div>
+
 <div align="center">
+    
+# SOCIALS
+
+</div>
 Credits: @realcytrix/@cytrixgt, @femboy yeezy >.< ᵏⁱᵗᵗⁱᵉˢ
 </div>
 <div align="center">
