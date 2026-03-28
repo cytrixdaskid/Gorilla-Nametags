@@ -23,10 +23,10 @@ Toggle Nametags = Right Shift + Left Shift
 
 <div align="center">
     
-# SOCIALS
+# SOCIALS/CREDITS
 
 </div>
-Credits: @realcytrix/@cytrixgt, @femboy yeezy >.< ᵏⁱᵗᵗⁱᵉˢ
+Credits: @realcytrix/@cytrixgt, claude (troubleshooting + help)
 </div>
 <div align="center">
 Discord: https://discord.gg/PDpTdjq7sV
