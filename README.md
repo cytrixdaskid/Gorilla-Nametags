@@ -6,7 +6,7 @@ This gorilla tag mod is aimed to help improve nametags for better visibility and
 </div>
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1425684761883443312/1486628203362779189/Screenshot_2026-03-26_002824.png?ex=69c631e7&is=69c4e067&hm=76acc6ed94719f4f3c55100584ea3de7a48c8ef7ca999ec4835b93bc4958954f&">
+    <img src="https://cdn.discordapp.com/attachments/1425684761883443312/1487368285488939149/Screenshot_2026-03-28_012034.png?ex=69c8e329&is=69c791a9&hm=42b69a92f02a9a5b2ae8448f9f70d1ef3d29f2463798b1cafef5d58527fd8433&">
   </a>
 <div align="center">
 
