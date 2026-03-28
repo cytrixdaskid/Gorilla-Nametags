@@ -16,6 +16,7 @@ CONTROLS:
 <div align="center">
 Toggle Nametags = Right Shift + Left Shift
 </div>
+</div>
 
 </div>
 <div align="center">
