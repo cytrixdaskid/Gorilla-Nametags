@@ -13,8 +13,7 @@ This gorilla tag mod is aimed to help improve nametags for better visibility and
 <div align="center">
 
 CONTROLS:
-Toggle Nametags
-- Right Shift + Left Shift
+Toggle Nametags = Right Shift + Left Shift
 
 </div>
 
