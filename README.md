@@ -11,10 +11,10 @@ This gorilla tag mod is aimed to help improve nametags for better visibility and
 <div align="center">
 
 <div align="center">
-
 CONTROLS:
+</div>
+<div align="center">
 Toggle Nametags = Right Shift + Left Shift
-
 </div>
 
 </div>
